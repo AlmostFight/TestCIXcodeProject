@@ -18,6 +18,8 @@ class TimeTable {
             }
         }
         
+        print(ans)
+        
         return ans
     }
 }
